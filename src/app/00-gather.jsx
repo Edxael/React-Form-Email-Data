@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import FaBeer from 'react-icons/lib/fa/beer';
 
 export default class extends Component{
     render(){
@@ -20,11 +19,6 @@ export default class extends Component{
 
                        <input type="submit" value="Sign Up..."/>
                        <br/><br/>
-
-                       <div>
-                            <p>Icons Here</p>
-                            <FaBeer />
-                       </div>
                        
 
                    </form>
